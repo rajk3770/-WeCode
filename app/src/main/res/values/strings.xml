@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minute.io</string>
+    <string name="title_activity_upload_audio_google">Upload_audio_google</string>
+
+    <string name="natural_language_understanding_username">ca8370b2-819c-4d8d-9c03-66d855186d99</string>
+    <string name="natural_language_understanding_password">wTikxpr5LEn8</string>
+    <string name="title_activity_ibm_nlp">ibm_nlp</string>
+
+</resources>

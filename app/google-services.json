@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "939192740888",
+    "firebase_url": "https://minuteio-218516.firebaseio.com",
+    "project_id": "minuteio-218516",
+    "storage_bucket": "minuteio-218516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939192740888:android:c1a3498397ff8581",
+        "android_client_info": {
+          "package_name": "com.example.raj.minuteio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939192740888-hrfn8i9semcjn6dkn7lukm41nm5a59bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raj.minuteio",
+            "certificate_hash": "163402fd3af89ceb31e80113070f76c1aaf45a79"
+          }
+        },
+        {
+          "client_id": "939192740888-pn6s1u0mhd36ub562lj7nmpvcpigv8n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv2G7O52DA0fNyJlmun475XICMdJIWpXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939192740888-pn6s1u0mhd36ub562lj7nmpvcpigv8n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
